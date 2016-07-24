@@ -1,0 +1,22 @@
+{
+  "name": "cars-app",
+  "version": "0.0.0",
+  "description": "Cars Model Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cars",
+    "nodejs"
+  ],
+  "author": "raju",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.14.0",
+    "lodash": "~4.13.1",
+    "body-parser": "~1.15.2",
+    "mongoose": "~4.5.4",
+    "validator": "~5.4.0"
+  }
+}
